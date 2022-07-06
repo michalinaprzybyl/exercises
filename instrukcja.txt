@@ -1,0 +1,12 @@
+Instrukcja
+1. stwórz nowy branch: git checkout -b
+2. stwórz plik: touch; edycja istniejących już rzeczy
+3. git add
+4. git commit
+5. git push
+6. compare & pull request
+7. merge
+8. delete branch
+9. przejdź na branch master
+10. git pull
+11. usuwam branch u siebie: git checkout -d
